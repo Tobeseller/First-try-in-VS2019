@@ -1,0 +1,11 @@
+C:\Users\29421879\Desktop\PictureViewer_Linkova\bin\Debug\PictureViewer_Linkova.exe.config
+C:\Users\29421879\Desktop\PictureViewer_Linkova\bin\Debug\PictureViewer_Linkova.exe
+C:\Users\29421879\Desktop\PictureViewer_Linkova\bin\Debug\PictureViewer_Linkova.pdb
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.csproj.AssemblyReference.cache
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.Properties.Resources.resources
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.csproj.GenerateResource.cache
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.csproj.CoreCompileInputs.cache
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.exe
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.pdb
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.Form1.resources
+C:\Users\29421879\Desktop\PictureViewer_Linkova\obj\Debug\PictureViewer_Linkova.AboutBox1.resources
